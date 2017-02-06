@@ -1,0 +1,3 @@
+[submodule "vue-memo"]
+	path = vue-memo
+	url = https://github.com/vortispy/vue-memo
